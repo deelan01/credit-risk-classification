@@ -14,4 +14,4 @@ results:
 
 
 
-Summary: I would reccomend this model as a prefect model for a bank but may need some futher turning depending on bussiness priorites
+Summary: I would reccomend this model as a perfect model for a bank but may need some futher turning depending on bussiness priorites
